@@ -265,6 +265,9 @@ export default function ColorStyleGuide() {
               <h3 className="font-semibold mb-2">⚠️ Important Guidelines:</h3>
               <ul className="list-disc pl-5 space-y-1">
                 <li>
+                  Get as close as you can to amazon.com's layout. The goal is to capture the overall feel and structure of Amazon's marketplace, while using our brand colors and style.
+                </li>
+                <li>
                   Always use <code className="bg-gray-100 px-1 rounded">#FFD809</code> (not
                   #FFD804) for the primary yellow
                 </li>
